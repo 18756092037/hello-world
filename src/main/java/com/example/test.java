@@ -5,9 +5,9 @@ import java.util.Scanner;
 
 public class test {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        //Scanner input = new Scanner(System.in);
         System.out.print("N=");
-        int total = input.nextInt();
+        int total = 10;
         System.out.println("N=" + total + "，打印菱形");
         int i;
         //计算星星从第一行到中间有多少行数
